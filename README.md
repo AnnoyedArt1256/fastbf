@@ -1,5 +1,5 @@
 # fastbf
-An optimizing Brainf**k interpreter in C
+An optimizing Brainf**k interpreter written in C
 
 usage
 ```
